@@ -5,6 +5,6 @@ Python-based (tkinter) GUI that intakes and stores/edits multicast video stream 
 
 ![](https://github.com/morgsimmons95/MultiStream/blob/main/MultiStream.PNG)
 
-Functionality is entirely GUI for use by operations groups. Stream information is added and configured in the Manage window and stored in the streams.json file. 
+Functionality is entirely GUI for use by operations groups. Stream information is added and configured in the Manage window and stored in the streams.json file. In-house streams omitted.
 
 ![](https://github.com/morgsimmons95/MultiStream/blob/main/MS%20Manage.PNG)
